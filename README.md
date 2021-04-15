@@ -1,1 +1,2 @@
-# Elementor-plugin
+# Vasterra
+Стилизация темы за счет плагина
